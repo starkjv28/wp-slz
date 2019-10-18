@@ -1230,7 +1230,7 @@ class td_page_generator {
 
             $buffy = '<div class="no-results td-pb-padding-side">';
             if (empty(td_global::$custom_no_posts_message)) {
-                $buffy .= '<h2>' . __td('No posts to display', TD_THEME_NAME) . '</h2>';
+                $buffy .= '<h2>' . __td('Chưa có bài viết', TD_THEME_NAME) . '</h2>';
             } else {
                 $buffy .= '<h2>' . td_global::$custom_no_posts_message . '</h2>';
             }
