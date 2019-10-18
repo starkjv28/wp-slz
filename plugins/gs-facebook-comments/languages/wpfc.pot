@@ -1,0 +1,219 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Facebook Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-20 01:54-0600\n"
+"PO-Revision-Date: 2014-11-28 23:35+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: GenialSouls <info@genialsouls.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e;_\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wpfc-admin.php:150
+msgid "WP Facebook Comments Settings!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:171
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:179
+msgid "Number of comments to show!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:187
+msgid "Width of the comments box!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:195
+msgid "Color scheme!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:203
+msgid "Order by!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:211
+msgid "Language"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:219
+msgid "Select post types to show Facebook comments!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:240
+msgid "If you want to moderate the comments, we recommend you specify a "
+msgstr ""
+
+#: admin/class-wpfc-admin.php:242
+msgid " ID. Please check our video tutorial about "
+msgstr ""
+
+#: admin/class-wpfc-admin.php:243
+msgid "How to create Facebook App v2.11"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:247
+msgid "Click here for App Moderation Tools!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:266
+msgid "The number of comments to show. The minimum value is 1"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:283
+msgid "Leave blank for full width."
+msgstr ""
+
+#: admin/class-wpfc-admin.php:301
+msgid "Light"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:305
+msgid "Dark"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:322
+msgid "Top"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:323
+msgid "Highest quality comments."
+msgstr ""
+
+#: admin/class-wpfc-admin.php:326
+msgid "Time"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:327
+msgid "Oldest comments at the top."
+msgstr ""
+
+#: admin/class-wpfc-admin.php:330
+msgid "Reverse Time"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:331
+msgid "Newest comments at the top."
+msgstr ""
+
+#: admin/class-wpfc-admin.php:355
+msgid "Select language."
+msgstr ""
+
+#: admin/class-wpfc-admin.php:399
+msgid "Facebook Comments Moderation?"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:411
+msgid "Post Types for Comments!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:414
+msgid "Please use shortcode "
+msgstr ""
+
+#: admin/class-wpfc-admin.php:416
+msgid " for pages and manual comments!"
+msgstr ""
+
+#: admin/class-wpfc-admin.php:428
+msgid "Comments Box!"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:1
+msgid "You may also like!"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:12
+msgid "* WooSocio Free version *"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:13
+msgid "* Post product to Facebook, pages and groups"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:14
+msgid "* post to groups you dont manage."
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:15
+msgid "* Add widget for Facebook like box"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:16
+msgid "* Multi user ready"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:17
+msgid "* Post as image or link"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:18
+#: admin/partials/wpfc-admin-plugins.php:60
+msgid "* And many more..."
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:34
+msgid "* WooTweet Free *"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:36
+msgid "* Post product to Twitter"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:37
+msgid "* Post products multiple times(on every update)      "
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:38
+msgid "* Add Tweet Widget for latest Tweets"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:39
+msgid "* And many more to come..."
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:55
+msgid "* WP Instagram Post *"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:56
+msgid "* Post any type of post to Instagram."
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:57
+msgid "* Post product price, currency symbol, link, details."
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:58
+msgid "* Post products multiple times. (on every update)"
+msgstr ""
+
+#: admin/partials/wpfc-admin-plugins.php:59
+msgid "* Simple to use with Instagram user and password."
+msgstr ""
+
+#: admin/partials/wpfc-admin-right-area.php:39
+msgid "Liked WP Social Comments?"
+msgstr ""
+
+#: admin/partials/wpfc-admin-right-area.php:48
+msgid "Need more help? Please contact: "
+msgstr ""
+
+#: admin/partials/wpfc-admin-right-area.php:51
+msgid "Contact Us"
+msgstr ""

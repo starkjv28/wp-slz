@@ -1,0 +1,11 @@
+In May, Uber launched a new experiment: selling train and bus tickets through its app for its customers in Denver, Colorado. Today, the company reports that it has sold over 1,200 tickets for the city’s Regional Transportation District, which operates Denver’s public transportation system.
+<blockquote class="td_quote td_quote_right">THE COMPANY REPORTS GROWTH AVERAGING 42 PERCENT EACH WEEK DURING THE ROLLOUT PERIOD</blockquote>
+Uber Transit, the company’s in-app ticketing feature, was made available to a small cohort of customers in May, and it has since become available to 100 percent of Uber users in Denver as of June 25th. The company reports growth averaging 42 percent each week during the rollout period.
+
+Uber may not make any money when it sells bus and subway tickets through its app, but it is seeing an uptick in business as a result. Since Uber launched its transit planning feature in January, Uber trips in Denver that start or end at a transit station have grown 11.6 percent. This helps bolster Uber’s claim that it is helping solve the first mile / last mile challenge that plagues many cities.
+
+Uber also said that the number of repeat ticket purchases has increased every week since ticketing launched. As of the week of June 24th, approximately 25 percent of tickets sold were purchased by users who had previously purchased tickets on the app.
+
+Uber’s new transit feature is powered by Masabi, a London-based tech company that builds mobile ticketing software for public transportation. This is the first incarnation of Uber and Masabi’s partnership since the two companies first struck a deal last year to integrate the latter’s mobile ticketing platform into the former’s app. Uber riders in Denver have been able to see real-time bus and rail information when they open the app since January, courtesy of transit data firm Moovit.
+
+For now, Uber is taking its first foray into public transportation slowly, one city at a time. So far, the company offers real-time subway and bus schedules, time and cost comparisons, and point-to-point directions for customers in London and Boston. It most likely will launch ticket purchasing in those cities later this year.

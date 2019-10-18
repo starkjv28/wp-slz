@@ -1,0 +1,67 @@
+@import "../../../assets/less/variables.less";
+
+/*
+Travel Pro Demo
+*/
+
+.td-travel-pro {
+
+  .td-ajax-prev-page {
+    margin: 0 5px 0 0;
+  }
+
+  .td-ajax-next-page {
+    margin: 0 0 0 5px;
+  }
+
+  .td-travel-slider {
+
+    .td-ajax-prev-page {
+      margin: 0 15px 0 0;
+    }
+
+    .td-ajax-next-page {
+      margin: 0 0 0 15px;
+    }
+
+    @media (min-width: 1720px) {
+      .td-next-prev-wrap {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        margin: 0;
+        width: 100%;
+      }
+
+      .td-ajax-prev-page,
+      .td-ajax-next-page {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 0;
+      }
+
+      .td-ajax-prev-page {
+        left: -50px;
+      }
+
+      .td-ajax-next-page {
+        right: -50px;
+      }
+    }
+  }
+
+  .td-travel-posts {
+    .tdc-font-tdmp-arrow-down {
+      margin: 4px 0 0 0;
+      display: block;
+    }
+  }
+
+
+  // demos button
+  #td-theme-settings .td-skin-buy a {
+    background-color: #ce9079;
+  }
+}

@@ -1,0 +1,872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cresta Facebook Messenger\n"
+"POT-Creation-Date: 2018-08-03 13:35+0100\n"
+"PO-Revision-Date: 2018-08-03 13:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cresta-facebook-messenger-metabox.php:15
+msgid "Cresta Facebook Messenger"
+msgstr ""
+
+#: cresta-facebook-messenger-metabox.php:31
+msgid "Hide Cresta Facebook Messenger in this page?"
+msgstr ""
+
+#: cresta-facebook-messenger.php:31
+msgid "Cresta Facebook Messenger Settings"
+msgstr ""
+
+#: cresta-facebook-messenger.php:36
+msgid "Settings"
+msgstr ""
+
+#: cresta-facebook-messenger.php:44
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: cresta-facebook-messenger.php:318
+msgid "See Details: Cresta Facebook Messenger PRO"
+msgstr ""
+
+#: cresta-facebook-messenger.php:318
+msgid "Upgrade to PRO version!"
+msgstr ""
+
+#: cresta-facebook-messenger.php:319
+msgid "Cresta Facebook Messenger FREE"
+msgstr ""
+
+#: cresta-facebook-messenger.php:332
+msgid "Main settings"
+msgstr ""
+
+#: cresta-facebook-messenger.php:336
+msgid "How to use the plugin:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:340
+msgid ""
+"Classic mode (To allow your users to send you a message via Facebook "
+"Messenger)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:343
+msgid "Live chat mode * (To chat live with your users via Facebook Messenger)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:343 cresta-facebook-messenger.php:377
+#: cresta-facebook-messenger.php:383 cresta-facebook-messenger.php:555
+#: cresta-facebook-messenger.php:561 cresta-facebook-messenger.php:659
+#: cresta-facebook-messenger.php:665 cresta-facebook-messenger.php:671
+#: cresta-facebook-messenger.php:677 cresta-facebook-messenger.php:683
+#: cresta-facebook-messenger.php:689 cresta-facebook-messenger.php:695
+#: cresta-facebook-messenger.php:701 cresta-facebook-messenger.php:741
+#: cresta-facebook-messenger.php:747
+msgid "PRO Version"
+msgstr ""
+
+#: cresta-facebook-messenger.php:346
+msgid ""
+"* Live chat mode is in beta version, customization options are limited by "
+"Facebook itself. Live Chat available only as a floating box, shortcodes "
+"available only with the classic mode."
+msgstr ""
+
+#: cresta-facebook-messenger.php:351
+msgid "General Box Settings"
+msgstr ""
+
+#: cresta-facebook-messenger.php:356
+msgid "Your Facebook Page ID:"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: cresta-facebook-messenger.php:362
+#, php-format
+msgid ""
+"The system works only with Facebook pages (no profiles or groups). Use %1$s "
+"this website %2$s to find the ID of your Facebook page."
+msgstr ""
+
+#: cresta-facebook-messenger.php:368
+msgid "Box Text:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:371
+msgid "Leave it blank if you do not want to use the box text."
+msgstr ""
+
+#: cresta-facebook-messenger.php:375
+msgid "Title color:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:381
+msgid "Title background:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:387
+msgid "Hide page cover:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:393
+msgid "Use small header:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:399
+msgid "Show facepile:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:405
+msgid "Tabs to show:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:410
+msgid "Messages"
+msgstr ""
+
+#: cresta-facebook-messenger.php:413
+msgid "Timeline"
+msgstr ""
+
+#: cresta-facebook-messenger.php:416
+msgid "Events"
+msgstr ""
+
+#: cresta-facebook-messenger.php:422
+msgid "Choose the icon to show:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:425
+msgid "Messenger Icon"
+msgstr ""
+
+#: cresta-facebook-messenger.php:426
+msgid "Facebook Icon"
+msgstr ""
+
+#: cresta-facebook-messenger.php:431
+msgid "Box Language:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:434
+msgid "Afrikaans"
+msgstr ""
+
+#: cresta-facebook-messenger.php:435
+msgid "Albanian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:436
+msgid "Arabic"
+msgstr ""
+
+#: cresta-facebook-messenger.php:437
+msgid "Armenian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:438
+msgid "Assamese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:439
+msgid "Azerbaijani"
+msgstr ""
+
+#: cresta-facebook-messenger.php:440
+msgid "Basque"
+msgstr ""
+
+#: cresta-facebook-messenger.php:441
+msgid "Belarusian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:442
+msgid "Bengali"
+msgstr ""
+
+#: cresta-facebook-messenger.php:443
+msgid "Bosnian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:444
+msgid "Breton"
+msgstr ""
+
+#: cresta-facebook-messenger.php:445
+msgid "Bulgarian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:446
+msgid "Burmese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:447
+msgid "Burmese (Zawgyi)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:448
+msgid "Catalan"
+msgstr ""
+
+#: cresta-facebook-messenger.php:449
+msgid "Cebuano"
+msgstr ""
+
+#: cresta-facebook-messenger.php:450
+msgid "Corsican"
+msgstr ""
+
+#: cresta-facebook-messenger.php:451
+msgid "Croatian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:452
+msgid "Czech"
+msgstr ""
+
+#: cresta-facebook-messenger.php:453
+msgid "Danish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:454
+msgid "Dutch"
+msgstr ""
+
+#: cresta-facebook-messenger.php:455
+msgid "Dutch (Belgie)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:456
+msgid "English (Pirate)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:457
+msgid "English (UK)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:458
+msgid "English (US)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:459
+msgid "English (Upside Down)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:460
+msgid "Esperanto"
+msgstr ""
+
+#: cresta-facebook-messenger.php:461
+msgid "Estonian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:462
+msgid "Faroese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:463
+msgid "Filipino"
+msgstr ""
+
+#: cresta-facebook-messenger.php:464
+msgid "Finnish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:465
+msgid "French (Canada)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:466
+msgid "French (France)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:467
+msgid "Frisian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:468
+msgid "Fula"
+msgstr ""
+
+#: cresta-facebook-messenger.php:469
+msgid "Galician"
+msgstr ""
+
+#: cresta-facebook-messenger.php:470
+msgid "Georgian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:471
+msgid "German"
+msgstr ""
+
+#: cresta-facebook-messenger.php:472
+msgid "Greek"
+msgstr ""
+
+#: cresta-facebook-messenger.php:473
+msgid "Guarani"
+msgstr ""
+
+#: cresta-facebook-messenger.php:474
+msgid "Gujarati"
+msgstr ""
+
+#: cresta-facebook-messenger.php:475
+msgid "Hausa"
+msgstr ""
+
+#: cresta-facebook-messenger.php:476
+msgid "Hebrew"
+msgstr ""
+
+#: cresta-facebook-messenger.php:477
+msgid "Hindi"
+msgstr ""
+
+#: cresta-facebook-messenger.php:478
+msgid "Hungarian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:479
+msgid "Icelandic"
+msgstr ""
+
+#: cresta-facebook-messenger.php:480
+msgid "Indonesian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:481
+msgid "Irish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:482
+msgid "Italian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:483
+msgid "Japanese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:484
+msgid "Japanese (Kansai)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:485
+msgid "Javanese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:486
+msgid "Kannada"
+msgstr ""
+
+#: cresta-facebook-messenger.php:487
+msgid "Kazakh"
+msgstr ""
+
+#: cresta-facebook-messenger.php:488
+msgid "Khmer"
+msgstr ""
+
+#: cresta-facebook-messenger.php:489
+msgid "Kinyarwanda"
+msgstr ""
+
+#: cresta-facebook-messenger.php:490
+msgid "Korean"
+msgstr ""
+
+#: cresta-facebook-messenger.php:491
+msgid "Kurdish (Kurmanji)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:492
+msgid "Latin"
+msgstr ""
+
+#: cresta-facebook-messenger.php:493
+msgid "Latvian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:494
+msgid "Leet Speak"
+msgstr ""
+
+#: cresta-facebook-messenger.php:495
+msgid "Lithuanian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:496
+msgid "Macedonian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:497
+msgid "Malagasy"
+msgstr ""
+
+#: cresta-facebook-messenger.php:498
+msgid "Malay"
+msgstr ""
+
+#: cresta-facebook-messenger.php:499
+msgid "Malayalam"
+msgstr ""
+
+#: cresta-facebook-messenger.php:500
+msgid "Maltese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:501
+msgid "Marathi"
+msgstr ""
+
+#: cresta-facebook-messenger.php:502
+msgid "Mongolian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:503
+msgid "Nepali"
+msgstr ""
+
+#: cresta-facebook-messenger.php:504
+msgid "Norvegian (bokmal)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:505
+msgid "Norvegian (nynorsk)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:506
+msgid "Oriya"
+msgstr ""
+
+#: cresta-facebook-messenger.php:507
+msgid "Pashto"
+msgstr ""
+
+#: cresta-facebook-messenger.php:508
+msgid "Persian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:509
+msgid "Polish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:510
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:511
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:512
+msgid "Punjabi"
+msgstr ""
+
+#: cresta-facebook-messenger.php:513
+msgid "Romanian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:514
+msgid "Russian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:515
+msgid "Sardinian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:516
+msgid "Serbian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:517
+msgid "Silesian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:518
+msgid "Semplified Chinese (China)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:519
+msgid "Sinhala"
+msgstr ""
+
+#: cresta-facebook-messenger.php:520
+msgid "Slovak"
+msgstr ""
+
+#: cresta-facebook-messenger.php:521
+msgid "Slovenian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:522
+msgid "Somali"
+msgstr ""
+
+#: cresta-facebook-messenger.php:523
+msgid "Sorani Kurdish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:524
+msgid "Spanish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:525
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:526
+msgid "Swahili"
+msgstr ""
+
+#: cresta-facebook-messenger.php:527
+msgid "Swedish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:528
+msgid "Syriac"
+msgstr ""
+
+#: cresta-facebook-messenger.php:529
+msgid "Tajik"
+msgstr ""
+
+#: cresta-facebook-messenger.php:530
+msgid "Tamazight"
+msgstr ""
+
+#: cresta-facebook-messenger.php:531
+msgid "Tamil"
+msgstr ""
+
+#: cresta-facebook-messenger.php:532
+msgid "Telugu"
+msgstr ""
+
+#: cresta-facebook-messenger.php:533
+msgid "Thai"
+msgstr ""
+
+#: cresta-facebook-messenger.php:534
+msgid "Traditional Chinese (Hong Kong)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:535
+msgid "Traditional Chinese (Taiwan)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:536
+msgid "Turkish"
+msgstr ""
+
+#: cresta-facebook-messenger.php:537
+msgid "Ukrainian"
+msgstr ""
+
+#: cresta-facebook-messenger.php:538
+msgid "Urdu"
+msgstr ""
+
+#: cresta-facebook-messenger.php:539
+msgid "Uzbek"
+msgstr ""
+
+#: cresta-facebook-messenger.php:540
+msgid "Vietnamese"
+msgstr ""
+
+#: cresta-facebook-messenger.php:541
+msgid "Welsh"
+msgstr ""
+
+#: cresta-facebook-messenger.php:546
+msgid "Boz Z-Index:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:549
+msgid ""
+"Increase this number if the box is covered by other items on the screen."
+msgstr ""
+
+#: cresta-facebook-messenger.php:553
+msgid "Box Width:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:559
+msgid "Box Height:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:565
+msgid "Show Facebook Messenger button:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:568
+msgid "Both mobile and desktop"
+msgstr ""
+
+#: cresta-facebook-messenger.php:569
+msgid "Only on mobile"
+msgstr ""
+
+#: cresta-facebook-messenger.php:570
+msgid "Only on desktop"
+msgstr ""
+
+#: cresta-facebook-messenger.php:575
+msgid "On Mobile:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:578
+msgid "Open Facebook Messenger APP"
+msgstr ""
+
+#: cresta-facebook-messenger.php:579
+msgid "Use the browser"
+msgstr ""
+
+#: cresta-facebook-messenger.php:585
+msgid "Floating Box"
+msgstr ""
+
+#: cresta-facebook-messenger.php:589
+msgid "Show floating box"
+msgstr ""
+
+#: cresta-facebook-messenger.php:595
+msgid "Show the floating box on"
+msgstr ""
+
+#: cresta-facebook-messenger.php:601
+msgid "Home page"
+msgstr ""
+
+#: cresta-facebook-messenger.php:604
+msgid "Blog page"
+msgstr ""
+
+#: cresta-facebook-messenger.php:608
+msgid "WooCommerce Shop page"
+msgstr ""
+
+#: cresta-facebook-messenger.php:611
+msgid "WooCommerce Product Catgory"
+msgstr ""
+
+#: cresta-facebook-messenger.php:614
+msgid "WooCommerce Product Tag"
+msgstr ""
+
+#: cresta-facebook-messenger.php:618
+msgid "Category pages"
+msgstr ""
+
+#: cresta-facebook-messenger.php:621
+msgid "Tag pages"
+msgstr ""
+
+#: cresta-facebook-messenger.php:624
+msgid "Author pages"
+msgstr ""
+
+#: cresta-facebook-messenger.php:627
+msgid "Date pages"
+msgstr ""
+
+#: cresta-facebook-messenger.php:630
+msgid "Search pages"
+msgstr ""
+
+#: cresta-facebook-messenger.php:647
+msgid ""
+"If active, post, page and custom post type can be managed individually via "
+"metabox when you edit a page or post. You can choose to hide the Facebook "
+"Messenger box in a specific post, page or custom post type."
+msgstr ""
+
+#: cresta-facebook-messenger.php:651
+msgid "Close the floating box by clicking anywhere on the page:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:657
+msgid "Icon color:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:663
+msgid "Icon background:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:669
+msgid "Icon animation:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:675
+msgid "Distance from left/right:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:681
+msgid "Distance from top/bottom:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:687
+msgid "Tooltip text:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:693
+msgid "Text next to the Messenger icon:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:699
+msgid "Auto open the box after N seconds (only on desktop):"
+msgstr ""
+
+#: cresta-facebook-messenger.php:706
+msgid "Shortcode and PHP code"
+msgstr ""
+
+#: cresta-facebook-messenger.php:710
+msgid "Attributes for shortcode and PHP code"
+msgstr ""
+
+#: cresta-facebook-messenger.php:712
+msgid "The text you want to display in the button"
+msgstr ""
+
+#: cresta-facebook-messenger.php:713
+msgid ""
+"Choose whether to display the Facebook Messenger icon next to the text (yes "
+"or no)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:714
+msgid ""
+"The position of the box after the user has clicked on the button (top, "
+"bottom, left or right)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:715
+msgid ""
+"Use it if you want to use a different Facebook Page ID than the one used in "
+"the plugin options page."
+msgstr ""
+
+#: cresta-facebook-messenger.php:719
+msgid "Shortcode"
+msgstr ""
+
+#: cresta-facebook-messenger.php:721
+msgid ""
+"You can place the shortcode in posts or pages you want to display the "
+"Facebook Messenger button:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:727
+msgid "PHP Code"
+msgstr ""
+
+#: cresta-facebook-messenger.php:729
+msgid ""
+"If you want to add the Facebook Messenger button in the theme code you can "
+"use this PHP code:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:739
+msgid "Button color:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:745
+msgid "Button background:"
+msgstr ""
+
+#: cresta-facebook-messenger.php:762
+msgid "Rate it!"
+msgstr ""
+
+#: cresta-facebook-messenger.php:768
+msgid "Rate Cresta Facebook Messenger on Wordpress Plugins Directory"
+msgstr ""
+
+#: cresta-facebook-messenger.php:768
+msgid "Rate Cresta Facebook Messenger"
+msgstr ""
+
+#: cresta-facebook-messenger.php:774
+msgid "Need More? Get the PRO version"
+msgstr ""
+
+#: cresta-facebook-messenger.php:779
+msgid "Change position of the box button"
+msgstr ""
+
+#: cresta-facebook-messenger.php:780
+msgid "Change colors of the button, shortcode and text"
+msgstr ""
+
+#: cresta-facebook-messenger.php:781
+msgid "Add tooltip on the box button"
+msgstr ""
+
+#: cresta-facebook-messenger.php:782
+msgid "Change box size"
+msgstr ""
+
+#: cresta-facebook-messenger.php:783
+msgid "Facebook Messenger widget"
+msgstr ""
+
+#: cresta-facebook-messenger.php:784
+msgid "4 Click animations and 9 icon animations"
+msgstr ""
+
+#: cresta-facebook-messenger.php:785
+msgid "Live Chat Mode (beta)"
+msgstr ""
+
+#: cresta-facebook-messenger.php:786
+#, php-format
+msgid "20% discount code for all CrestaProject Themes"
+msgstr ""
+
+#: cresta-facebook-messenger.php:787
+msgid "1 year updates and support"
+msgstr ""
+
+#: cresta-facebook-messenger.php:788
+msgid "and Much More..."
+msgstr ""
+
+#: cresta-facebook-messenger.php:790
+msgid "More Details"
+msgstr ""
+
+#: cresta-facebook-messenger.php:805
+msgid "Cresta Social Share Counter Plugin"
+msgstr ""
+
+#: cresta-facebook-messenger.php:808
+msgid ""
+"Share your posts and pages quickly and easily with Cresta Social Share "
+"Counter showing the share count."
+msgstr ""
+
+#: cresta-facebook-messenger.php:809
+msgid "Cresta Social Share Counter"
+msgstr ""
+
+#: cresta-facebook-messenger.php:809
+msgid "Available in FREE and PRO version"
+msgstr ""
