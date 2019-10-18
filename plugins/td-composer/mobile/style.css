@@ -2312,7 +2312,7 @@ blockquote.pull-right:after {
 .td_module_mob_2 {
     position: relative;
     overflow: hidden;
-    margin: 0 -15px 2px -15px;
+    margin: 0 -15px 16px -15px;
 }
 
 .td_module_mob_2 .td-admin-edit {
@@ -3125,6 +3125,9 @@ blockquote.pull-right:after {
 
 #td-header-menu {
     position: relative;
+    background: #ffffff;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
 }
 
 #td-top-mobile-toggle {
@@ -3137,7 +3140,8 @@ blockquote.pull-right:after {
     width: 60px;
     line-height: 64px;
     display: inline-block;
-    color: #fff;
+    color: #000000;
+    background-color: #ffffff;
 }
 
 .td-main-menu-logo {
@@ -3871,6 +3875,8 @@ blockquote.pull-right:after {
     display: inline-block;
     margin: 0 7px 7px 0;
     line-height: 1;
+    border: 1px solid #E0E0E0;
+    border-radius: 3px;
 }
 
 .td-category a {
@@ -5869,8 +5875,6 @@ body {
 
 .td-container {
     width: 100%;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .post footer {
