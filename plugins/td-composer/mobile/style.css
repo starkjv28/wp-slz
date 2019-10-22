@@ -62,6 +62,7 @@ html {
 
 body {
     margin: 0;
+    overflow-x: hidden !important;
 }
 
 
@@ -2312,7 +2313,8 @@ blockquote.pull-right:after {
 .td_module_mob_2 {
     position: relative;
     overflow: hidden;
-    margin: 0 -15px 16px -15px;
+    margin: 0 0px 16px;
+    box-shadow: 0px 2px rgba(0, 0, 0, 0.08);
 }
 
 .td_module_mob_2 .td-admin-edit {
@@ -2328,7 +2330,7 @@ blockquote.pull-right:after {
 }
 
 .td_module_mob_2 .td-meta-info-container {
-    position: absolute;
+    /* position: absolute; */
     bottom: 0;
     left: 0;
     width: 100%;
@@ -2337,27 +2339,27 @@ blockquote.pull-right:after {
 }
 
 .td_module_mob_2 .td-meta-align {
-    margin: 0 15px 17px;
+    margin: 0 23px 17px;
     pointer-events: none;
 }
 
 .td_module_mob_2 .td-post-author-name a,
 .td_module_mob_2 .td-post-author-name span,
 .td_module_mob_2 .td-post-date {
-    color: #fff;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    color: #BDBDBD;
+    /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3); */
 }
 
 .td_module_mob_2 .entry-title {
     font-size: 20px;
     line-height: 24px;
     font-weight: bold;
-    margin: 8px 0 9px;
+    margin: 8px -1px 9px;
 }
 
 .td_module_mob_2 .entry-title a {
-    color: #fff;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    color: #111111;
+    /* text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); */
 }
 
 .td_module_mob_2 .td-module-meta-info {
@@ -2381,12 +2383,12 @@ blockquote.pull-right:after {
 }
 
 .td_module_mob_2 .td-module-thumb {
-    height: 155px;
+    height: 275px !important;
 }
 
 .td_module_mob_2 .td-module-thumb a:last-child {
-    height: 155px;
-    display: block;
+    /* height: 155px;
+    display: block; */
 }
 
 .td_module_mob_2 .td-module-thumb a:last-child:before {
@@ -3767,6 +3769,11 @@ blockquote.pull-right:after {
 
 .td-mobile-footer-wrap a {
     color: #fff;
+}
+
+.td-mobile-footer-wrap img {
+    width: 80%;
+    height: auto;
 }
 
 .td-mobile-footer-wrap>a {
@@ -5840,7 +5847,7 @@ td-md-is-iemobile
     /* Opera/IE 8+ */
 }
 
-*:before,
+fffffff *:before,
 *:after {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -5849,8 +5856,7 @@ td-md-is-iemobile
 
 img {
     max-width: 100%;
-    width: auto\9;
-    height: auto;
+    height: 100% !important;
 }
 
 body {
