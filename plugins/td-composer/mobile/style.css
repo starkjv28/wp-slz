@@ -131,7 +131,6 @@ template {
     display: none;
 }
 
-
 /* Links
    ========================================================================== */
 
@@ -869,6 +868,9 @@ input[type=password]:focus {
 .td-post-content figure img,
 .woocommerce #tab-description figure img {
     margin-bottom: 0;
+    max-height: 200px;
+    display: block;
+    margin: auto;
 }
 
 .td-post-content p>img,
@@ -1037,6 +1039,10 @@ figure.aligncenter {
   TinyMCE content
 ----------------------------------------------------------------------------
 */
+
+img.avatar.avatar-26.photo.lazyloaded{
+    height: 58% !important;
+}
 
 .td-page-content,
 .td-post-content,
@@ -2314,7 +2320,7 @@ blockquote.pull-right:after {
     position: relative;
     overflow: hidden;
     margin: 0 0px 16px;
-    box-shadow: 0px 2px rgba(0, 0, 0, 0.08);
+    box-shadow: 0px 2px rgba(0, 0, 0, 0.12);
 }
 
 .td_module_mob_2 .td-admin-edit {
@@ -2330,17 +2336,12 @@ blockquote.pull-right:after {
 }
 
 .td_module_mob_2 .td-meta-info-container {
-    /* position: absolute; */
-    bottom: 0;
-    left: 0;
     width: 100%;
-    pointer-events: none;
-    z-index: 1;
+    margin-top: 0;
 }
 
 .td_module_mob_2 .td-meta-align {
     margin: 0 23px 17px;
-    pointer-events: none;
 }
 
 .td_module_mob_2 .td-post-author-name a,
@@ -2399,20 +2400,6 @@ blockquote.pull-right:after {
     width: 130%;
     position: absolute;
     z-index: 1;
-    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
-    /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.7)));
-    /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
-    /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
-    /* Opera 11.10+ */
-    background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
-    /* IE10+ */
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
-    /* W3C */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#b3000000', GradientType=0);
-    /* IE6-9 */
 }
 
 
@@ -3128,7 +3115,6 @@ blockquote.pull-right:after {
 #td-header-menu {
     position: relative;
     background: #ffffff;
-    border-top: 1px solid #f2f2f2;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -3794,6 +3780,10 @@ blockquote.pull-right:after {
     margin-bottom: 0;
 }
 
+.td-footer-description {
+    padding: 0 20px;
+}
+
 .footer-email-wrap {
     padding-top: 16px;
 }
@@ -3849,15 +3839,19 @@ blockquote.pull-right:after {
 
 .td-post-content {
     margin-bottom: 26px;
+    padding: 0 5px;
 }
 
-.td-post-featured-image {
-    margin-left: -15px;
-    margin-right: -15px;
+.td-post-featured-image{
+    margin-left: -20px !important;
+    margin-right: -20px !important;
 }
 
 .td-post-featured-image img {
     margin-bottom: 21px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .td-post-featured-image .wp-caption-text {
@@ -5847,7 +5841,7 @@ td-md-is-iemobile
     /* Opera/IE 8+ */
 }
 
-fffffff *:before,
+*:before,
 *:after {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -5865,9 +5859,7 @@ body {
 }
 
 #td-outer-wrap {
-    overflow: auto;
-    margin: auto;
-    width: 100%;
+    overflow-x: hidden !important;
     background-color: #fff;
     -webkit-transition: transform 0.7s ease;
     -moz-transition: transform 0.7s ease;
@@ -5881,6 +5873,8 @@ body {
 
 .td-container {
     width: 100%;
+    padding-right: 8px;
+    padding-left: 8px;
 }
 
 .post footer {
