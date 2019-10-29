@@ -178,7 +178,13 @@ class Wpfc_Public {
 				$fb_appid = '&appId=' . $options['wpfc_text_fb_appid'];
 
 			$socio_link = get_permalink( $post_id );
-
+			/* iframe old			
+			 <style>
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: '.$data_width.' !important;
+			}
+		  </style>
+			*/
 		    $comments_div = '
 			  <div 
 			  	class = "fb-comments" 
@@ -190,7 +196,7 @@ class Wpfc_Public {
 			  </div>
 		  <style>
 			.fb_iframe_widget_fluid_desktop iframe {
-			    width: '.$data_width.' !important;
+			    width: 100% !important;
 			}
 		  </style>
 		  ';
@@ -246,7 +252,7 @@ class Wpfc_Public {
 		  </div>
 		  <style>
 			.fb_iframe_widget_fluid_desktop iframe {
-			    width: '.$data_width.' !important;
+			    width: 100% !important;
 			}
 		  </style>
 		  ';
