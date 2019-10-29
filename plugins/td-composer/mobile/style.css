@@ -3870,6 +3870,8 @@ blockquote.pull-right:after {
     line-height: 1;
     max-height: 23px;
     overflow: hidden;
+	display: none;
+	/*hidden category*/
 }
 
 .td-category li {
